@@ -1,2 +1,2 @@
-# Bioinformatics_Data_Integration_Projcet
+# Bioinformatics_Data_Integration_Project
 Group project for 03713-A4
